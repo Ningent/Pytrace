@@ -1,0 +1,12 @@
+[project]
+name = "pytrace"
+version = "0.1.0"
+description = "A lightweight resource path utility compatible with PyInstaller"
+authors = [{ name = "Ningent", email = "apanianavo3@gmail.com" }]
+readme = "README.md"
+license = { text = "MIT" }
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
